@@ -22,7 +22,7 @@ By leveraging data visualization techniques, the system helps healthcare adminis
 * NumPy
 * Matplotlib
 * Seaborn
-* Plotly / Power BI (if applicable)
+* Plotly
 * Jupyter Notebook
 
 ## Objectives
